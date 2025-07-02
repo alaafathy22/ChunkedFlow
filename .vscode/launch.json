@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ParallelFileUploaderApplication<parallel-file-uploader>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fileupload.ParallelFileUploaderApplication",
+            "projectName": "parallel-file-uploader",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
